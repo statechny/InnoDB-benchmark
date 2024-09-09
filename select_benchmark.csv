@@ -1,0 +1,4 @@
+Test,Execution Time,Rows Returned
+no_index,4.126088857650757,175
+btree_index,0.005102872848510742,175
+hash_index,1.5898489952087402,175
